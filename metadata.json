@@ -1,0 +1,6 @@
+{
+  "name": "Italian Pizza",
+  "description": "Explore delicious pizzas, burgers, crispy chicken, and more at Italian Pizza in Dera Ismail Khan. Browse our menu and order your favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
